@@ -1,5 +1,5 @@
 import React from "react";
-import farmVideo from "./Images/caf.mp4"; // Import your video file
+import farmVideo from "./Images/videoSection.mp4"; // Import your video file
 
 const VideoSection = () => {
   return (
